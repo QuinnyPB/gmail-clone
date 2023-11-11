@@ -1,0 +1,2 @@
+Installed React Router from their website: react-router:
+npm install react-router-dom
